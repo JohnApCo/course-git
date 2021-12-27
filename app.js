@@ -1,1 +1,1 @@
-console.log('hola mundo desde Legio y530')
+console.log('hola mundo desde master')
